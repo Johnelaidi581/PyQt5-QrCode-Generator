@@ -1,3 +1,5 @@
+Any Linux Machine
+
 "qrcode" pip install qrcode
 
 "notify" pip install notify
